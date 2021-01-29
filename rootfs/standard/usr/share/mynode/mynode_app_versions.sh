@@ -1,10 +1,10 @@
 #!/bin/bash
 
-BTC_VERSION="0.20.1"
+BTC_VERSION="0.21.0"
 BTC_VERSION_FILE=/home/bitcoin/.mynode/bitcoin_version
 BTC_LATEST_VERSION_FILE=/home/bitcoin/.mynode/bitcoin_version_latest
 
-LND_VERSION="v0.11.1-beta"
+LND_VERSION="v0.12.0-beta"
 LND_VERSION_FILE=/home/bitcoin/.mynode/lnd_version
 LND_LATEST_VERSION_FILE=/home/bitcoin/.mynode/lnd_version_latest
 
@@ -16,7 +16,7 @@ POOL_VERSION="v0.4.1-alpha"
 POOL_VERSION_FILE=/home/bitcoin/.mynode/pool_version
 POOL_LATEST_VERSION_FILE=/home/bitcoin/.mynode/pool_version_latest
 
-ELECTRS_VERSION="v0.8.6" 
+ELECTRS_VERSION="v0.8.7" 
 ELECTRS_VERSION_FILE=/home/bitcoin/.mynode/electrs_version
 ELECTRS_LATEST_VERSION_FILE=/home/bitcoin/.mynode/electrs_version_latest
 
@@ -58,7 +58,7 @@ SPECTER_VERSION="1.0.0"
 SPECTER_VERSION_FILE=/home/bitcoin/.mynode/specter_version
 SPECTER_LATEST_VERSION_FILE=/home/bitcoin/.mynode/specter_version_latest
 
-THUNDERHUB_VERSION="v0.12.2"
+THUNDERHUB_VERSION="v0.12.6"
 THUNDERHUB_VERSION_FILE=/home/bitcoin/.mynode/thunderhub_version
 THUNDERHUB_LATEST_VERSION_FILE=/home/bitcoin/.mynode/thunderhub_version_latest
 
